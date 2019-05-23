@@ -9,3 +9,6 @@
     - Small vocabulary size (256 for UTF-8) helps to build compact models.
   - Shuo-Yiin Chang, Rohit Prabhavalkar, Yanzhang He, Tara N. Sainath, Gabor Simko. *Joint Endpointing and Decoding with End-to-end Models.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683109)]
   - Changhao Shan, Chao Weng, Guangsen Wang, Dan Su, Min Luo, Dong Yu, Lei Xie. *Component Fusion: Learning Replaceable Language Model Component for End-to-end Speech Recognition System.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682490)]
+    - `ASR` `LM Fushion`
+    - Use Component Fusion to incorporate externally trained LM into an attention-based ASR system.
+    - Make use of the large amount of text corpora.
