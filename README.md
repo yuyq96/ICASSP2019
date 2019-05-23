@@ -5,3 +5,4 @@
   - Use Unicode bytes instead of characters, sub-words or words as the unit of text representation.
   - ASR: outperform grapheme models in both multilingual and monolingual models.
   - TTS: match the performance of monolingual grapheme models.
+  - Small vocabulary size (256 for UTF-8) helps to build compact models.
