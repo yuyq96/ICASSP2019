@@ -14,3 +14,6 @@
     - Make use of the large amount of text corpora.
     - Concatenate the hidden states of ASR model and LM (unlike Cold Fushion: first, train the ASR model jointly with a fixed LM pre-trained on transcript text, then replace the LM with another one which is trained on a larger text corpora or out-of-domain text during decoding).
     - Achieve better performance in both in-domain and out-of-domain senary.
+  - Stefan Braun, Shih-Chii Liu. *Parameter Uncertainty for End-to-end Speech Recognition.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683066)]
+  - Shane Settle, Kartik Audhkhasi, Karen Livescu, Michael Picheny. *Acoustically Grounded Word Embeddings for Improved Acoustics-to-Word Speech Recognition.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682903)] [[CoRR 2019](http://arxiv.org/abs/1903.12306)]
+  - Murali Karthick Baskar, Lukás Burget, Shinji Watanabe, Martin Karafiát, Takaaki Hori, Jan Honza Cernocký. *Promising Accurate Prefix Boosting for sequence-to-sequence ASR.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682782)] [[CoRR 2018](http://arxiv.org/abs/1811.02770)]
