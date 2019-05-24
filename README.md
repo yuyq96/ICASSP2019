@@ -3,7 +3,7 @@
 ## SLP-L1: End-to-end Speech Recognition I: General Topics
 
 - [x] Bo Li, Yu Zhang, Tara Sainath, Yonghui Wu, William Chan. *Bytes Are All You Need: End-to-end Multilingual Speech Recognition and Synthesis with Bytes.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682674)] [[CoRR2018](https://arxiv.org/abs/1811.09021)]
-  - `Multilingual` `ASR` `TTS`
+  - `ASR` `TTS` `Multilingual`
   - Use Unicode bytes instead of characters, sub-words or words as the unit of text representation.
   - ASR: outperform grapheme models in both multilingual and monolingual models.
   - TTS: match the performance of monolingual grapheme models.
@@ -27,6 +27,7 @@
 ## SLP-P2: Speaker Verification and Identification I
 
 - [ ] Mahesh Kumar Nandwana, Mitchell McLaren, Luciana Ferrer, Diego Castan, Aaron Lawson. *Analysis and Mitigation of Vocal Effort Variations in Speaker Recognition.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683881)]
+  - `TI-SV` `Domain Adaption`
 
 - [ ] Johan Rohdin, Themos Stafylakis, Anna Silnova, Hossein Zeinali, Lukáš Burget, Oldřich PlchotSpeaker. *Verification Using End-to-End Adversarial Language Adaptation.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683616)]
 
