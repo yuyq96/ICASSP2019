@@ -49,3 +49,21 @@
 
 - [x] Ya-Qi Yu, Lei Fan, Wu-Jun Li. *Ensemble Additive Margin Softmax for Speaker Verification.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683649)]
   - `TI-SV` `AM-Softmax` `HSIC`
+
+## SLP-L2: End-to-end Speech Recognition II: New Models
+
+## SLP-P4: Speaker Verification and Identification II
+
+## SLP-L8: Speech Synthesis I
+
+- [ ] Jean-Marc Valin, Jan Skoglund. *LPCNET: Improving Neural Speech Synthesis through Linear Prediction.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682804/)] [[CoRR 2018](LPCNET: Improving Neural Speech Synthesis through Linear Prediction)]
+
+- [ ] Jungbae Park, Kijong Han, Yuneui Jeong, Sang Wan Lee. *Phonemic-level Duration Control Using Attention Alignment for Natural Speech Synthesis.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683827/)]
+
+- [ ] Wei-Ning Hsu, Yu Zhang, Ron J. Weiss, Yu-An Chung, Yuxuan Wang, Yonghui Wu, James Glass. *Disentangling Correlated Speaker and Noise for Speech Synthesis via Data Augmentation and Adversarial Factorization.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683561/)]
+
+- [ ] Kyle Kastner, João Felipe Santos, Yoshua Bengio, Aaron Courville. *Representation Mixing for TTS Synthesis.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682880/)]
+
+- [ ] Younggun Lee, Taesu Kim. *Robust and Fine-grained Prosody Control of End-to-end Speech Synthesis.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683501/)]
+
+- [ ] Xin Wang, Shinji Takaki, Junichi Yamagishi. *Neural Source-filter-based Waveform Model for Statistical Parametric Speech Synthesis.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682298/)]
