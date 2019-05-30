@@ -28,10 +28,22 @@
 
 - [ ] Mahesh Kumar Nandwana, Mitchell McLaren, Luciana Ferrer, Diego Castan, Aaron Lawson. *Analysis and Mitigation of Vocal Effort Variations in Speaker Recognition.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683881)]
 
-- [x] Johan Rohdin, Themos Stafylakis, Anna Silnova, Hossein Zeinali, Lukáš Burget, Oldřich PlchotSpeaker. *Verification Using End-to-End Adversarial Language Adaptation.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683616)]
+- [x] Johan Rohdin, Themos Stafylakis, Anna Silnova, Hossein Zeinali, Lukáš Burget, Oldřich PlchotSpeaker. *Speaker Verification Using End-to-End Adversarial Language Adaptation.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683616)]
   - `TI-SV` `Domain Adaption` `GAN` `Maximum Mean Discrepancy (MMD)` `Wasserstein Distance`
   - Generator: minimize Wasserstein distance and classification loss.
   - Discriminator: maximize Wasserstein distance (and minimize gradient penalty loss for 1-Lipschitz constraint).
+
+- [ ] Buddhi Wickramasinghe, Eliathamby Ambikairajah, Julien Epps, Vidhyasaharan Sethu, Haizhou Li. *Auditory Inspired Spatial Differentiation for Replay Spoofing Attack Detection.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683693)]
+
+- [ ] Roberto Font. *A Denoising Autoencoder for Speaker Recognition. Results on the MCE 2018 Challenge.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683525/)]
+
+- [ ] Shuai Wang, Yexin Yang, Tianzhe Wang, Yanmin Qian, Kai Yu. *Knowledge Distillation for Small Foot-print Deep Speaker Embedding.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683443/)]
+
+- [ ] Liang He, Xianhong Chen, Can Xu, Jia Liu. *Multi-objective Optimization Training of PLDA for Speaker Verification.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683295/)]
+
+- [ ] Ondřej Novotný, Oldřich Plchot, Ondřej Glembek, Lukáš Burget, Pavel Matějka. *Discriminatively Re-trained i-vector Extractor for Speaker Recognition.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682590/)] [[CoRR 2018](http://arxiv.org/abs/1810.13183)]
+
+- [ ] Lantian Li, Zhiyuan Tang, Ying Shi, Dong Wang. *Gaussian-constrained Training for Speaker Verification.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683245/)] [[CoRR 2018](http://arxiv.org/abs/1811.03258)]
 
 - [ ] Gautam Bhattacharya, Jahangir Alam, Patrick Kenny. *Adapting End-to-End Neural Speaker Verification to New Languages and Recording Conditions with Adversarial Training.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682611)] [[CoRR 2018](http://arxiv.org/abs/1811.03055)]
 
