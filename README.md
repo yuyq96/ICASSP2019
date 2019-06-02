@@ -63,10 +63,12 @@
 - [ ] Wei-Ning Hsu, Yu Zhang, Ron J. Weiss, Yu-An Chung, Yuxuan Wang, Yonghui Wu, James Glass. *Disentangling Correlated Speaker and Noise for Speech Synthesis via Data Augmentation and Adversarial Factorization.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683561/)]
 
 - [x] Kyle Kastner, João Felipe Santos, Yoshua Bengio, Aaron Courville. *Representation Mixing for TTS Synthesis.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682880/)] [[CoRR 2018](http://arxiv.org/abs/1811.07240)]
-  - `TTS` `Representation Mixing`
+  - `TTS` `Text-to-spectrogram` `Representation Mixing`
   - Single word can have different pronunciation.
   - Combine grapheme and phoneme inputs in a single encoder flexibly (with mask).
 
 - [ ] Younggun Lee, Taesu Kim. *Robust and Fine-grained Prosody Control of End-to-end Speech Synthesis.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683501/)] [[CoRR 2018](http://arxiv.org/abs/1811.02122)]
 
 - [ ] Xin Wang, Shinji Takaki, Junichi Yamagishi. *Neural Source-filter-based Waveform Model for Statistical Parametric Speech Synthesis.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682298/)] [[CoRR 2018](http://arxiv.org/abs/1810.11946)]
+  - `TTS` `Spectrogram-to-waveform`
+  - Use source module to generate sine-based excitation signal, then use filter module to transform excitation signal into waveform.
