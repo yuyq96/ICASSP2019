@@ -56,7 +56,9 @@
 
 ## SLP-L8: Speech Synthesis I
 
-- [ ] Jean-Marc Valin, Jan Skoglund. *LPCNET: Improving Neural Speech Synthesis through Linear Prediction.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682804/)] [[CoRR 2018](LPCNET: Improving Neural Speech Synthesis through Linear Prediction)]
+- [x] Jean-Marc Valin, Jan Skoglund. *LPCNET: Improving Neural Speech Synthesis through Linear Prediction.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682804/)] [[CoRR 2018](LPCNET: Improving Neural Speech Synthesis through Linear Prediction)]
+  - `TTS` `Spectrogram-to-waveform` `LPCNet`
+  - Use linear predictor to simplify the prediction, so that the network directly predict the excitation (residual).
 
 - [ ] Jungbae Park, Kijong Han, Yuneui Jeong, Sang Wan Lee. *Phonemic-level Duration Control Using Attention Alignment for Natural Speech Synthesis.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683827/)]
 
@@ -69,6 +71,8 @@
 
 - [ ] Younggun Lee, Taesu Kim. *Robust and Fine-grained Prosody Control of End-to-end Speech Synthesis.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683501/)] [[CoRR 2018](http://arxiv.org/abs/1811.02122)]
 
-- [ ] Xin Wang, Shinji Takaki, Junichi Yamagishi. *Neural Source-filter-based Waveform Model for Statistical Parametric Speech Synthesis.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682298/)] [[CoRR 2018](http://arxiv.org/abs/1810.11946)]
+- [x] Xin Wang, Shinji Takaki, Junichi Yamagishi. *Neural Source-filter-based Waveform Model for Statistical Parametric Speech Synthesis.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682298/)] [[CoRR 2018](http://arxiv.org/abs/1810.11946)]
   - `TTS` `Spectrogram-to-waveform`
   - Use source module to generate sine-based excitation signal, then use filter module to transform excitation signal into waveform.
+  - Faster than autoregressive models (e.g., WaveNet).
+  - Simpler than non-autoregressive models (e.g., Parallel WaveNet), since it does not need to employ complicated training method (e.g., distilling).
