@@ -1,6 +1,8 @@
 # ICASSP 2019
 
-## SLP-L1: End-to-end Speech Recognition I: General Topics
+## Speech Language Processing
+
+### Lecture 1: End-to-end Speech Recognition I: General Topics
 
 - [x] Bo Li, Yu Zhang, Tara Sainath, Yonghui Wu, William Chan. *Bytes Are All You Need: End-to-end Multilingual Speech Recognition and Synthesis with Bytes.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682674)] [[CoRR2018](https://arxiv.org/abs/1811.09021)]
   - `ASR` `TTS` `Multilingual`
@@ -24,7 +26,9 @@
 
 - [ ] Murali Karthick Baskar, Lukás Burget, Shinji Watanabe, Martin Karafiát, Takaaki Hori, Jan Honza Cernocký. *Promising Accurate Prefix Boosting for sequence-to-sequence ASR.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682782)] [[CoRR 2018](http://arxiv.org/abs/1811.02770)]
 
-## SLP-P2: Speaker Verification and Identification I
+### Lecture 2: End-to-end Speech Recognition II: New Models
+
+### Poster 2: Speaker Verification and Identification I
 
 - [ ] Mahesh Kumar Nandwana, Mitchell McLaren, Luciana Ferrer, Diego Castan, Aaron Lawson. *Analysis and Mitigation of Vocal Effort Variations in Speaker Recognition.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683881)]
 
@@ -50,11 +54,9 @@
 - [x] Ya-Qi Yu, Lei Fan, Wu-Jun Li. *Ensemble Additive Margin Softmax for Speaker Verification.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683649)]
   - `TI-SV` `AM-Softmax` `HSIC`
 
-## SLP-L2: End-to-end Speech Recognition II: New Models
+### Poster 4: Speaker Verification and Identification II
 
-## SLP-P4: Speaker Verification and Identification II
-
-## SLP-L8: Speech Synthesis I
+### Lecture 8: Speech Synthesis I
 
 - [x] Jean-Marc Valin, Jan Skoglund. *LPCNET: Improving Neural Speech Synthesis through Linear Prediction.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682804/)] [[CoRR 2018](LPCNET: Improving Neural Speech Synthesis through Linear Prediction)]
   - `TTS` `Spectrogram-to-waveform` `LPCNet`
@@ -76,3 +78,33 @@
   - Use source module to generate sine-based excitation signal, then use filter module to transform excitation signal into waveform.
   - Faster than autoregressive models (e.g., WaveNet).
   - Simpler than non-autoregressive models (e.g., Parallel WaveNet), since it does not need to employ complicated training method (e.g., distilling).
+
+## Poster 20: Speech Synthesis II
+
+- [ ] Yusuke Yasuda, Xin Wang, Shinji Takaki, Junichi Yamagishi. *Investigation of Enhanced Tacotron Text-to-speech Synthesis Systems with Self-attention for Pitch Accent Language.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682353/)] [[CoRR 2018](http://arxiv.org/abs/1810.11960)]
+
+- [ ] Shan Yang, Heng Lu, Shiying Kang, Lei Xie, Dong Yu. *Enhancing Hybrid Self-attention Structure with Relative-position-aware Bias for Speech Synthesis* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682861/)]
+
+- [ ] Lauri Juvela, Bajibabu Bollepalli, Junichi Yamagishi, Paavo Alku. *Waveform Generation for Text-to-speech Synthesis Using Pitch-synchronous Multi-scale Generative Adversarial Networks.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683271/)] [[CoRR 2018](http://arxiv.org/abs/1810.12598)]
+
+- [ ] Kohki Mametani, Tsuneo Kato, Seiichi Yamamoto. *Investigating Context Features Hidden in End-to-end TTS.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683857/)] [[CoRR 2018](http://arxiv.org/abs/1811.01376)]
+
+- [ ] Éva Székely, Gustav Eje Henter, Joakim Gustafson. *Casting to Corpus: Segmenting and Selecting Spontaneous Dialogue for Tts with a Cnn-lstm Speaker-dependent Breath Detector.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683846/)]
+
+- [ ] Ruibo Fu, Jianhua Tao, Zhengqi Wen, Yibin Zheng. *Phoneme Dependent Speaker Embedding and Model Factorization for Multi-speaker Speech Synthesis and Adaptation.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682535/)]
+
+- [ ] Yuewen Cao, Xixin Wu, Songxiang Liu, Jianwei Yu, Xu Li, Zhiyong Wu, Xunying Liu, Helen Meng. *End-to-end Code-switched TTS with Mix of Monolingual Recordings.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682927/)]
+
+- [ ] Yu-An Chung, Yuxuan Wang, Wei-Ning Hsu, Yu Zhang, RJ Skerry-Ryan. *Semi-supervised Training for Improving Data Efficiency in End-to-end Speech Synthesis.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683862/)] [[CoRR 2018](http://arxiv.org/abs/1808.10128)]
+
+- [ ] Ya-Jie Zhang, Shifeng Pan, Lei He, Zhen-Hua Ling. *Learning Latent Representations for Style Control and Transfer in End-to-end Speech Synthesis.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683623/)] [[CoRR 2018](http://arxiv.org/abs/1812.04342)]
+
+- [ ] Heejin Choi, Sangjun Park, Jinuk Park, Minsoo Hahn. *Multi-speaker Emotional Acoustic Modeling for CNN-based Speech Synthesis.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683682/)]
+
+- [ ] Yukiya Hono, Kei Hashimoto, Keiichiro Oura, Yoshihiko Nankaku, Keiichi Tokuda. *Singing Voice Synthesis Based on Generative Adversarial Networks.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683154/)]
+
+- [ ] Kantapon Kaewtip, Fernando Villavicencio, Fang-Yu Kuo, Mark Harvilla, Iris Ouyang, Pierre Lanchantin. *Enhanced Virtual Singers Generation by Incorporating Singing Dynamics to Personalized Text-to-speech-to-singing.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682968/)]
+
+- [ ] Takuma Okamoto, Tomoki Toda, Yoshinori Shiga, Hisashi Kawai. *Investigations of Real-time Gaussian Fftnet and Parallel Wavenet Neural Vocoders with Simple Acoustic Features.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682320/)]
+
+## Poster 22: Speech Synthesis III
