@@ -79,7 +79,7 @@
   - Faster than autoregressive models (e.g., WaveNet).
   - Simpler than non-autoregressive models (e.g., Parallel WaveNet), since it does not need to employ complicated training method (e.g., distilling).
 
-## Poster 20: Speech Synthesis II
+### Poster 20: Speech Synthesis II
 
 - [ ] Yusuke Yasuda, Xin Wang, Shinji Takaki, Junichi Yamagishi. *Investigation of Enhanced Tacotron Text-to-speech Synthesis Systems with Self-attention for Pitch Accent Language.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682353/)] [[CoRR 2018](http://arxiv.org/abs/1810.11960)]
 
@@ -107,4 +107,24 @@
 
 - [ ] Takuma Okamoto, Tomoki Toda, Yoshinori Shiga, Hisashi Kawai. *Investigations of Real-time Gaussian Fftnet and Parallel Wavenet Neural Vocoders with Simple Acoustic Features.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682320/)]
 
-## Poster 22: Speech Synthesis III
+### Poster 22: Speech Synthesis III
+
+- [ ] Yang Ai, Jing-Xuan Zhang, Liang Chen, Zhen-Hua Ling. *Dnn-based Spectral Enhancement for Neural Waveform Generators with Low-bit Quantization.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683016/)]
+ 
+- [ ] Miraç Göksu Öztürk, Okan Ulusoy, Cenk Demiroglu. *DNN-based Speaker-adaptive Postfiltering with Limited Adaptation Data for Statistical Speech Synthesis Systems.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683714/)]
+ 
+- [ ] Chunhui Lu, Pengyuan Zhang, Yonghong Yan. *Self-attention Based Prosodic Boundary Prediction for Chinese Speech Synthesis.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682770/)]
+ 
+- [ ] François Marelli, Bastian Schnell, Hervé Bourlard, Thierry Dutoit, Philip N. Garner. *An End-to-end Network to Synthesize Intonation Using a Generalized Command Response Model.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683815/)]
+ 
+- [ ] Oliver Watts, Cassia Valentini-Botinhao, Simon King. *Speech Waveform Reconstruction Using Convolutional Neural Networks with Noise and Periodic Inputs.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683398/)]
+ 
+- [ ] Yanfeng Lu, Minghui Dong, Ying Chen. *Implementing Prosodic Phrasing in Chinese End-to-end Speech Synthesis.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682368/)]
+ 
+- [ ] Mu Wang, Xixin Wu, Zhiyong Wu, Shiyin Kang, Deyi Tuo, Guangzhi Li, Dan Su, Dong Yu, Helen Meng. *Quasi-fully Convolutional Neural Network with Variational Inference for Speech Synthesis.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682528/)]
+ 
+- [ ] Shinji Takaki, Toru Nakashika, Xin Wang, Junichi Yamagishi. *STFT Spectral Loss for Training a Neural Speech Waveform Model.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683791/)] [[CoRR 2018](http://arxiv.org/abs/1810.11945)]
+ 
+- [ ] Hiroki Tamaru, Yuki Saito, Shinnosuke Takamichi, Tomoki Koriyama, Hiroshi Saruwatari. *Generative Moment Matching Network-based Random Modulation Post-filter for DNN-based Singing Voice Synthesis and Neural Double-tracking.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683476/)] [[CoRR 2019](http://arxiv.org/abs/1902.03389)]
+ 
+- [ ] Javier Latorre, Jakub Lachowicz, Jaime Lorenzo-Trueba, Thomas Merritt, Thomas Drugman, Srikanth Ronanki, Viacheslav Klimkov. *Effect of Data Reduction on Sequence-to-sequence Neural TTS.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682168/)] [[CoRR 2018](http://arxiv.org/abs/1811.06315)]
