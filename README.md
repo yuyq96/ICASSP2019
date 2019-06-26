@@ -56,6 +56,26 @@
 
 ### Poster 4: Speaker Verification and Identification II
 
+- [ ] Fei Zhao, Hao Li, Xueliang Zhang. *A Robust Text-independent Speaker Verification Method Based on Speech Separation and Deep Speaker.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683762/)]
+
+- [ ] Gajan Suthokumar, Kaavya Sriskandaraja, Vidhyasaharan Sethu, Chamith Wijenayake, Eliathamby Ambikairajah. *Phoneme Specific Modelling and Scoring Techniques for Anti Spoofing System.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682411/)]
+
+- [ ] Phani Sankar Nidadavolu, Vicente Iglesias, Jesús Villalba, Najim Dehak. *Investigation on Neural Bandwidth Extension of Telephone Speech for Improved Speaker Recognition.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682992/)]
+
+- [ ] Yun Tang, Guohong Ding, Jing Huang, Xiaodong He, Bowen Zhou. *Deep Speaker Embedding Learning with Multi-level Pooling for Text-independent Speaker Verification.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682712/)] [[CoRR 2018](http://arxiv.org/abs/1902.07821)]
+
+- [ ] Sandro Cumani, Pietro Laface. *Tied Normal Variance–Mean Mixtures for Linear Score Calibration.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683379/)]
+
+- [ ] Insoo Kim, Kyuhong Kim, Jiwhan Kim, Changkyu Choi. *Deep Speaker Representation Using Orthogonal Decomposition and Recombination for Speaker Verification.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683332/)]
+
+- [ ] Yichi Zhang, Meng Yu, Na Li, Chengzhu Yu, Jia Cui, Dong Yu. *Seq2Seq Attentional Siamese Neural Networks for Text-dependent Speaker Verification.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682676/)]
+
+- [ ] Tharshini Gunendradasan, Saad Irtza, Eliathamby Ambikairajah, Julien Epps. *Transmission Line Cochlear Model Based AM-FM Features for Replay Attack Detection.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682771/)]
+
+- [ ] Hossein Zeinali, Luka Burget, Johan Rohdin, Themos Stafylakis, Jan Honza Cernocky. *How to Improve Your Speaker Embeddings Extractor in Generic Toolkits.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683445/)] [[CoRR 2018](http://arxiv.org/abs/1811.02066)]
+
+- [ ] Tomi Kinnunen, Rosa González Hautamäki, Ville Vestman, Md Sahidullah. *Can We Use Speaker Recognition Technology to Attack Itself? Enhancing Mimicry Attacks Using Automatic Target Speaker Selection.* [[ICASSP 2019]()] [[CoRR 2018](http://arxiv.org/abs/1811.03790)]
+
 ### Lecture 8: Speech Synthesis I
 
 - [x] Jean-Marc Valin, Jan Skoglund. *LPCNET: Improving Neural Speech Synthesis through Linear Prediction.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682804/)] [[CoRR 2018](LPCNET: Improving Neural Speech Synthesis through Linear Prediction)]
@@ -110,21 +130,21 @@
 ### Poster 22: Speech Synthesis III
 
 - [ ] Yang Ai, Jing-Xuan Zhang, Liang Chen, Zhen-Hua Ling. *Dnn-based Spectral Enhancement for Neural Waveform Generators with Low-bit Quantization.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683016/)]
- 
+
 - [ ] Miraç Göksu Öztürk, Okan Ulusoy, Cenk Demiroglu. *DNN-based Speaker-adaptive Postfiltering with Limited Adaptation Data for Statistical Speech Synthesis Systems.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683714/)]
- 
+
 - [ ] Chunhui Lu, Pengyuan Zhang, Yonghong Yan. *Self-attention Based Prosodic Boundary Prediction for Chinese Speech Synthesis.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682770/)]
- 
+
 - [ ] François Marelli, Bastian Schnell, Hervé Bourlard, Thierry Dutoit, Philip N. Garner. *An End-to-end Network to Synthesize Intonation Using a Generalized Command Response Model.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683815/)]
- 
+
 - [ ] Oliver Watts, Cassia Valentini-Botinhao, Simon King. *Speech Waveform Reconstruction Using Convolutional Neural Networks with Noise and Periodic Inputs.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683398/)]
- 
+
 - [ ] Yanfeng Lu, Minghui Dong, Ying Chen. *Implementing Prosodic Phrasing in Chinese End-to-end Speech Synthesis.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682368/)]
- 
+
 - [ ] Mu Wang, Xixin Wu, Zhiyong Wu, Shiyin Kang, Deyi Tuo, Guangzhi Li, Dan Su, Dong Yu, Helen Meng. *Quasi-fully Convolutional Neural Network with Variational Inference for Speech Synthesis.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682528/)]
- 
+
 - [ ] Shinji Takaki, Toru Nakashika, Xin Wang, Junichi Yamagishi. *STFT Spectral Loss for Training a Neural Speech Waveform Model.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683791/)] [[CoRR 2018](http://arxiv.org/abs/1810.11945)]
- 
+
 - [ ] Hiroki Tamaru, Yuki Saito, Shinnosuke Takamichi, Tomoki Koriyama, Hiroshi Saruwatari. *Generative Moment Matching Network-based Random Modulation Post-filter for DNN-based Singing Voice Synthesis and Neural Double-tracking.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683476/)] [[CoRR 2019](http://arxiv.org/abs/1902.03389)]
- 
+
 - [ ] Javier Latorre, Jakub Lachowicz, Jaime Lorenzo-Trueba, Thomas Merritt, Thomas Drugman, Srikanth Ronanki, Viacheslav Klimkov. *Effect of Data Reduction on Sequence-to-sequence Neural TTS.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682168/)] [[CoRR 2018](http://arxiv.org/abs/1811.06315)]
