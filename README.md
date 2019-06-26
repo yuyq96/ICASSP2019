@@ -28,6 +28,8 @@
 
 ### Lecture 2: End-to-end Speech Recognition II: New Models
 
+### Lecture 6: Systems for Speaker Recognition and Identification
+
 ### Poster 2: Speaker Verification and Identification I
 
 - [ ] Mahesh Kumar Nandwana, Mitchell McLaren, Luciana Ferrer, Diego Castan, Aaron Lawson. *Analysis and Mitigation of Vocal Effort Variations in Speaker Recognition.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683881)]
@@ -75,6 +77,10 @@
 - [ ] Hossein Zeinali, Luka Burget, Johan Rohdin, Themos Stafylakis, Jan Honza Cernocky. *How to Improve Your Speaker Embeddings Extractor in Generic Toolkits.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683445/)] [[CoRR 2018](http://arxiv.org/abs/1811.02066)]
 
 - [ ] Tomi Kinnunen, Rosa González Hautamäki, Ville Vestman, Md Sahidullah. *Can We Use Speaker Recognition Technology to Attack Itself? Enhancing Mimicry Attacks Using Automatic Target Speaker Selection.* [[ICASSP 2019]()] [[CoRR 2018](http://arxiv.org/abs/1811.03790)]
+
+### Poster 6: Features and Robustness for Speaker Identification
+
+### Poster 8: Features and Learning for Speaker Identification and Diarization
 
 ### Lecture 8: Speech Synthesis I
 
