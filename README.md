@@ -115,7 +115,7 @@
 
 - [ ] Kohki Mametani, Tsuneo Kato, Seiichi Yamamoto. *Investigating Context Features Hidden in End-to-end TTS.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683857/)] [[CoRR 2018](http://arxiv.org/abs/1811.01376)]
 
-- [ ] Éva Székely, Gustav Eje Henter, Joakim Gustafson. *Casting to Corpus: Segmenting and Selecting Spontaneous Dialogue for Tts with a Cnn-lstm Speaker-dependent Breath Detector.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683846/)]
+- [ ] Éva Székely, Gustav Eje Henter, Joakim Gustafson. *Casting to Corpus: Segmenting and Selecting Spontaneous Dialogue for TTS with a CNN-LSTM Speaker-dependent Breath Detector.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683846/)]
 
 - [ ] Ruibo Fu, Jianhua Tao, Zhengqi Wen, Yibin Zheng. *Phoneme Dependent Speaker Embedding and Model Factorization for Multi-speaker Speech Synthesis and Adaptation.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682535/)]
 
@@ -135,7 +135,7 @@
 
 ### Poster 22: Speech Synthesis III
 
-- [ ] Yang Ai, Jing-Xuan Zhang, Liang Chen, Zhen-Hua Ling. *Dnn-based Spectral Enhancement for Neural Waveform Generators with Low-bit Quantization.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683016/)]
+- [ ] Yang Ai, Jing-Xuan Zhang, Liang Chen, Zhen-Hua Ling. *DNN-based Spectral Enhancement for Neural Waveform Generators with Low-bit Quantization.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683016/)]
 
 - [ ] Miraç Göksu Öztürk, Okan Ulusoy, Cenk Demiroglu. *DNN-based Speaker-adaptive Postfiltering with Limited Adaptation Data for Statistical Speech Synthesis Systems.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683714/)]
 
