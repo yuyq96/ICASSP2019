@@ -109,7 +109,7 @@
 
 - [ ] Yusuke Yasuda, Xin Wang, Shinji Takaki, Junichi Yamagishi. *Investigation of Enhanced Tacotron Text-to-speech Synthesis Systems with Self-attention for Pitch Accent Language.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682353/)] [[CoRR 2018](http://arxiv.org/abs/1810.11960)]
 
-- [ ] Shan Yang, Heng Lu, Shiying Kang, Lei Xie, Dong Yu. *Enhancing Hybrid Self-attention Structure with Relative-position-aware Bias for Speech Synthesis* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682861/)]
+- [ ] Shan Yang, Heng Lu, Shiying Kang, Lei Xie, Dong Yu. *Enhancing Hybrid Self-attention Structure with Relative-position-aware Bias for Speech Synthesis.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682861/)]
 
 - [ ] Lauri Juvela, Bajibabu Bollepalli, Junichi Yamagishi, Paavo Alku. *Waveform Generation for Text-to-speech Synthesis Using Pitch-synchronous Multi-scale Generative Adversarial Networks.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683271/)] [[CoRR 2018](http://arxiv.org/abs/1810.12598)]
 
