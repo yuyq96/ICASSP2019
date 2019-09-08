@@ -45,7 +45,7 @@
 
 - [ ] Shuai Wang, Yexin Yang, Tianzhe Wang, Yanmin Qian, Kai Yu. *Knowledge Distillation for Small Foot-print Deep Speaker Embedding.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683443/)]
   - `TI-SV` `Knowledge Distillation` `Teacher-Student`
-  - Optimize in both label level (posterior distribution, by KL-divergence) and embedding level (by Euclidean or cosine distance).
+  - Optimize in both label level (posterior distributions, by KL-divergence) and embedding level (by Euclidean or cosine distance).
 
 - [ ] Liang He, Xianhong Chen, Can Xu, Jia Liu. *Multi-objective Optimization Training of PLDA for Speaker Verification.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683295/)]
 
