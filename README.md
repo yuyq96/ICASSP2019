@@ -44,9 +44,9 @@
 
 - [ ] Roberto Font. *A Denoising Autoencoder for Speaker Recognition. Results on the MCE 2018 Challenge.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683525/)]
 
-- [ ] Shuai Wang, Yexin Yang, Tianzhe Wang, Yanmin Qian, Kai Yu. *Knowledge Distillation for Small Foot-print Deep Speaker Embedding.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683443/)]
+- [x] Shuai Wang, Yexin Yang, Tianzhe Wang, Yanmin Qian, Kai Yu. *Knowledge Distillation for Small Foot-print Deep Speaker Embedding.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683443/)]
   - `TI-SV` `VoxCeleb` `Knowledge Distillation` `Teacher-Student`
-  - Optimize in both label level (posterior distributions, by KL-divergence) and embedding level (by Euclidean or cosine distance).
+  - Optimize in label level (posterior distributions, by KL-divergence) or embedding level (by Euclidean or cosine distance).
 
 - [ ] Liang He, Xianhong Chen, Can Xu, Jia Liu. *Multi-objective Optimization Training of PLDA for Speaker Verification.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683295/)]
 
@@ -74,6 +74,7 @@
 - [ ] Insoo Kim, Kyuhong Kim, Jiwhan Kim, Changkyu Choi. *Deep Speaker Representation Using Orthogonal Decomposition and Recombination for Speaker Verification.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683332/)]
 
 - [ ] Yichi Zhang, Meng Yu, Na Li, Chengzhu Yu, Jia Cui, Dong Yu. *Seq2Seq Attentional Siamese Neural Networks for Text-dependent Speaker Verification.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682676/)]
+  - `TD-SV` `Seq2seq` `Attention` `Siamese`
 
 - [ ] Tharshini Gunendradasan, Saad Irtza, Eliathamby Ambikairajah, Julien Epps. *Transmission Line Cochlear Model Based AM-FM Features for Replay Attack Detection.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682771/)]
 
