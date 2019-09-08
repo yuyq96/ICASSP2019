@@ -35,7 +35,7 @@
 - [ ] Mahesh Kumar Nandwana, Mitchell McLaren, Luciana Ferrer, Diego Castan, Aaron Lawson. *Analysis and Mitigation of Vocal Effort Variations in Speaker Recognition.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683881)]
 
 - [x] Johan Rohdin, Themos Stafylakis, Anna Silnova, Hossein Zeinali, Lukáš Burget, Oldřich PlchotSpeaker. *Speaker Verification Using End-to-End Adversarial Language Adaptation.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683616)]
-  - `TI-SV` `Domain Adaption` `GAN` `Maximum Mean Discrepancy (MMD)` `Wasserstein Distance`
+  - `TI-SV` `SRE` `Domain Adaption` `GAN` `Maximum Mean Discrepancy (MMD)` `Wasserstein Distance`
   - Generator: minimize Wasserstein distance and classification loss.
   - Discriminator: maximize Wasserstein distance (and minimize gradient penalty loss for 1-Lipschitz constraint).
 
@@ -44,7 +44,7 @@
 - [ ] Roberto Font. *A Denoising Autoencoder for Speaker Recognition. Results on the MCE 2018 Challenge.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683525/)]
 
 - [ ] Shuai Wang, Yexin Yang, Tianzhe Wang, Yanmin Qian, Kai Yu. *Knowledge Distillation for Small Foot-print Deep Speaker Embedding.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683443/)]
-  - `TI-SV` `Knowledge Distillation` `Teacher-Student`
+  - `TI-SV` `VoxCeleb` `Knowledge Distillation` `Teacher-Student`
   - Optimize in both label level (posterior distributions, by KL-divergence) and embedding level (by Euclidean or cosine distance).
 
 - [ ] Liang He, Xianhong Chen, Can Xu, Jia Liu. *Multi-objective Optimization Training of PLDA for Speaker Verification.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683295/)]
@@ -56,7 +56,7 @@
 - [ ] Gautam Bhattacharya, Jahangir Alam, Patrick Kenny. *Adapting End-to-End Neural Speaker Verification to New Languages and Recording Conditions with Adversarial Training.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8682611)] [[CoRR 2018](http://arxiv.org/abs/1811.03055)]
 
 - [x] Ya-Qi Yu, Lei Fan, Wu-Jun Li. *Ensemble Additive Margin Softmax for Speaker Verification.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683649)]
-  - `TI-SV` `Additive Margin Softmax` `Hilbert-Schmidt Independence Criterion`
+  - `TI-SV` `VoxCeleb` `Additive Margin Softmax` `Hilbert-Schmidt Independence Criterion`
 
 ### Poster 4: Speaker Verification and Identification II
 
