@@ -40,6 +40,7 @@
   - Discriminator: maximize Wasserstein distance (and minimize gradient penalty loss for 1-Lipschitz constraint).
 
 - [ ] Buddhi Wickramasinghe, Eliathamby Ambikairajah, Julien Epps, Vidhyasaharan Sethu, Haizhou Li. *Auditory Inspired Spatial Differentiation for Replay Spoofing Attack Detection.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683693)]
+  - `TI-SV` `ASVspoof`
 
 - [ ] Roberto Font. *A Denoising Autoencoder for Speaker Recognition. Results on the MCE 2018 Challenge.* [[ICASSP 2019](https://ieeexplore.ieee.org/document/8683525/)]
 
